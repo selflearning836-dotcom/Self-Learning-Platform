@@ -1,14 +1,14 @@
 # 🐍 Welcome to the Self-Learning Platform 
 
-Welcome to the **Python MCQ Challenge Repo**! 🎓  
-This repository is designed for students to **practice GitHub workflow** while testing their Python knowledge.  
+Welcome to the ** MCQ Challenge Repo**! 🎓  
+This repository is designed for students to **practice GitHub workflow** while testing their coding knowledge.  
 
 ---
 
 🔧 **Main Features of the Repository**
 
-✅ **Multiple-Choice Python Quiz**  
-A curated set of 20 Python MCQs covering both fundamentals and intermediate concepts.
+✅ **Multiple-Choice  Quiz**  
+A curated set of 20 MCQs covering both fundamentals and intermediate concepts.
 
 🚀 **Fork → Solve → Pull Request Workflow**  
 Students can easily participate by forking, answering, and raising a PR — great for collaborative learning.
@@ -32,14 +32,14 @@ Emojis, spacing, and section dividers improve visual appeal and engagement.
 Instructors can review student PRs, comment inline, and provide improvement suggestions.
 
 🔁 **Reusable Quiz Template**  
-Easily adaptable for other subjects or future Python topics (e.g., OOP, Flask, Django, etc.).
+Easily adaptable for other subjects or future topics (e.g., OOP, Flask, Django, etc.).
 
 🔒 **Minimal Setup Required**  
 No extra tools or installations — works entirely within GitHub using markdown.
 
 ---
 
-## 📋 Python Quiz – Multiple Choice Questions
+## 📋 Quiz – Multiple Choice Questions
 
 > 📝 **Instructions:** Choose the correct option (A/B/C/D) for each question.  
 > Submit your answers in the `answers.md` file inside your forked repo and raise a pull request.

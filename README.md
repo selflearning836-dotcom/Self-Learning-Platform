@@ -1,4 +1,4 @@
-# 🐍 Python Quiz Repository
+# 🐍 Welcome to the Self-Learning Platform 
 
 Welcome to the **Python MCQ Challenge Repo**! 🎓  
 This repository is designed for students to **practice GitHub workflow** while testing their Python knowledge.  
